@@ -1,1 +1,2 @@
-recotiment_txt
+bot.py
+requirements.txt
